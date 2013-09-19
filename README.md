@@ -5,6 +5,12 @@ Onsen UI make building application simple using one concept every web developer 
 
 You can easily make more mobile app when used in combination with [Monaca].
 
+## How to build
+
+type grunt in terminal
+
+  grunt
+
 ## Getting Started
 See the [Onsen UI Getting Started Page].
 
